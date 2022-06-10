@@ -1,0 +1,29 @@
+mybox {
+    margin: 20px 0;
+    background-color: aquamarine;
+    border: 2px dotted black;
+}
+.nav
+{
+    margin-left: auto;
+}
+.col1 button{
+    border: 1px solid black;
+    font-size: 40px;
+}
+.col2
+{
+    padding: 13px;
+}
+.col1 p
+{
+    text-align: justify;
+}
+.container img
+{
+    border-radius: 50%;
+}
+.container .test
+{
+    align-items: center;
+}
